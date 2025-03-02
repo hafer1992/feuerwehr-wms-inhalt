@@ -1,0 +1,41 @@
+~~NOCACHE~~
+
+====== Startseite ======
+Willkommen auf der Startseite des Wissensmanagements der Feuerwehr Musterstadt
+
+Die Feuerwehr besteht aus folgenden Einheiten: [[Hauptamtliche Wache|Hauptamtliche Wache]], [[Löschzug 1|Löschzug 1]], [[Löschzug 2|Löschzug 2]], [[Löschzug 3|Löschzug 3]] und der [[Jugendfeuerwehr|Jugendfeuerwehr]]
+
+===== Organisatorisches =====
+Unter [[organisatorisch:dienstanweisungen|Dienstanweisungen]] findet sich eine Liste der aktuell gültigen Dienstanweisungen.
+
+Für die [[organisatorisch:leitung:leitung|Leitung]] finden sich spezielle Informationen hier.
+Die [[organisatorisch:fuehrung:fuehrung|Führungskräfte]] der einzelnen Einheiten finden hier spezielle Informationen.
+Für alle Mitglieder der Feuerwehr der Stadt Musterstadt gibt es hier [[Mannschaft|Informationen]].
+
+[[Aufgabenbeschreibungen|Aufgabenbeschreibungen]] für Führungsfunktionen und Posten in der Feuerwehr sowie Zuständigkeiten.
+
+[[Anleitungen|Anleitungen]] für Tätigkeiten und Veranstaltungen.
+
+[[organisatorisch:faq|Häufig gestellte Fragen]] werden ständig erweitert.
+
+Liste von [[organisatorisch:formulare|Formularen]] z.B. zur Erstattung von Auslagen, Zuschüssen oder Verwaltungsakten.
+
+
+===== Einsatz =====
+
+[[einsatz:standardeinsatzregeln|Standardeinsatzregeln]] definieren ein standardisiertes Vorgehen bei verschiedenen Einsatzszenarien.
+
+[[Checklisten|Checklisten]] für verschiedene Einsatzstichwörter
+
+[[Einsatzfuehrung|Einsatzführung]] mit [[Linksammlung|Linksammlung]] zu relevanten Nachschlagwerken und Kontakten.
+===== Ausbildung =====
+
+Für die verschiedenen Themen existieren [[Ausbildungsunterlagen|Ausbildungsunterlagen]], die die Ausbildung vereinheitlichen sollen.
+
+Unterlagen zu den [[Lehrgaenge|Lehrgängen]] werden zur Vor- und Nachbereitung bereitgestellt.
+
+Für die in der Ausbildung aktiven Kameraden existiert eine [[ausbildung:listeuebungsobjekte|Liste von Übungsobjekten]], mit Ansprechpartnern und Möglichkeiten, die wir zur Ausbildung nutzen können.
+
+Unter [[Lessons-learnt|Lessons learnt]] findet sich eine Sammlung von besonderen Einsätze bzw. Einsatzsituationen oder Beinaheunfällen und wichtigen Erkenntnissen daraus.
+
+[[Handbuecher|Handbücher]] für Geräte, Aggregate ode Fahrzeuge.

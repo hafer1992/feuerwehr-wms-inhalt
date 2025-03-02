@@ -1,0 +1,9 @@
+====== Leitungsseite ======
+
+Alle relevanten Informationen zur Leitung bei Einsätzen
+
+{{site>dokuwikii§leitung}}
+
+
+===== Städtische Regelungen =====
+Auf Stadtebene werden spezifischere Regelungen getroffen.

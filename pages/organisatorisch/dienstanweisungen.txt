@@ -1,0 +1,18 @@
+====== Dienstanweisungen ======
+
+
+Übersicht über die gültigen und nicht mehr gültigen Dienstanweisungen
+==== Gültige Dienstanweisungen ====
+
+
+^ Datum der Ausgabe      ^ Titel ^
+| 1.1.2024    | Titel 1    | 
+| 2.2.2025    | Titel 2   |
+| 3.3.2025    | Titel 3     |
+
+==== Nicht mehr Gültige Dienstanweisungen ====
+
+^ Datum der Ausgabe      ^ Titel  ^
+| 1.1.2000    | Titel 1    | 
+| 2.2.2002    | Titel 2   |
+| 3.3.2003    | Titel 3     |

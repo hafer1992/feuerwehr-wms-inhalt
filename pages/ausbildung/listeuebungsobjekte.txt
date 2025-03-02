@@ -1,0 +1,7 @@
+Übersicht über Übungsobjekte mit Ansprechpartnern der Feuerwehr. Diese bitte vor einer externen Kontaktaufnahme ansprechen.
+
+
+^ Übungsobjekt       ^ Beschreibung/Möglichkeit          ^ Ansprechpartner FW         ^ Ansprechpartner Extern ^
+| Muster-Gymnasium    | Schule mit Räumen, Chemie und Physiklehrern    | Michael Mustermann (LZ 1)        | Max Mustermann| 
+| Firma ABC    | Depot, Werkstatt|  Richard Löschmeister (LZ 2) | Beate Mustermann |
+| Klärwerk Musterstadt    | Großes Gelände, AbstuSi, Brand, TH, ABC        | Erika Mustermann (LZ 3) | N.N. |

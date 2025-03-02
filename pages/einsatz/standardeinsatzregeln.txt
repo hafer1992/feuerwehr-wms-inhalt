@@ -1,0 +1,15 @@
+====== Standard Einsatzregeln ======
+
+
+===== Brandeinsatz =====
+  * [[einsatz:wohnungsbrand|Wohnungsbrand]]
+  * [[einsatz:industriebrand|Industriebrand]]
+
+
+===== Technische Hilfe-Einsatz =====
+  * [[einsatz:pkw-unfall|PKW Unfall]]
+  * [[einsatz:maschinenunfall|Maschinenunfall]]
+
+===== ABC-Einsatz =====
+  * [[einsatz:gefahrstoff-strasse|Gefahrstoffaustritt Straße]]
+  * [[einsatz:gefahrstoff-gebaude|Gefahrstoffaustritt Gebäude]]
