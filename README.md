@@ -7,5 +7,6 @@ In diesem Repository findet sich eine **Basisstruktur** für die Inhalte in dem 
 Für die eigene Feuerwehr oder BOS müssen die Inhalte natürlich angepasst werden.
 
 Zum Importieren der Basisstruktur muss der Inhalt des Ordners `pages` in den Ordner `pages` der eigenen DokuWiki Instanz verschoben werden. Dieser findet sich unter `data/pages`.
+Den Ordnerinhalt können Sie unter [https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fhafer1992%2Ffeuerwehr-wms-inhalt%2Ftree%2Fmain%2Fpages](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fhafer1992%2Ffeuerwehr-wms-inhalt%2Ftree%2Fmain%2Fpages) herunterladen
 
 Bei allen Seiten, die man neu anlegt, wird der Inhalt aus der Datei `_template.txt` als Template eingefügt, um einen Ansatzpunkt zu haben. Dieses Template kann man verwenden, anpassen (Inhalt der Datei `_template.txt` bearbeiten) oder löschen (Datei umbenennen oder löschen).
